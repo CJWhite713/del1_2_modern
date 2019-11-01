@@ -23,13 +23,17 @@ body { 	    background-color:#646;
 			margin: 1rem auto; padding-bottom: 10px;
 			border-top-left-radius:25px; box-shadow: 0 0 10px #000;
 			font: 100%/1.4 Verdana, Geneva, sans-serif; }
+      header{
+        background: url(../img/wood-texture.jpg); background-size: cover;
+      }
 header, footer { padding:.5em 1rem .2em 1rem; margin:0; color:#fff; }
 footer {    background:#fff; background:rgba(235,225,235,1);
             font-size:.8rem; color: #666; }
 main {      background:#fff; background:rgba(215,200,215,1);
             padding: 0 1rem 1rem 1rem; margin-bottom: 10px; }
 h1 { 		font-size:200%; margin:2rem 0 0rem 0;
-			font-family:'caviar_dreamsbold', Geneva, sans-serif; }
+			font-family:'caviar_dreamsbold', Geneva, sans-serif;
+    }
 h2 { 		font-size:140%; margin: 0; padding:2rem 0 1rem 0;
             font-family:'caviar_dreamsbold', Geneva, sans-serif;
             color: #066; }
